@@ -1,0 +1,6 @@
+2014-04-24 16:22:55,818 - TestLogMukeshTrace - WARN - this is warning
+2014-04-26 15:18:45,776 - TestLogMukeshTrace - DEBUG - this is demo Logger
+2014-04-26 15:18:45,804 - TestLogMukeshTrace - DEBUG - this is demo Logger 1
+2014-04-26 15:18:45,805 - TestLogMukeshTrace - DEBUG - this is demo Logger 2
+2014-04-26 15:18:45,806 - TestLogMukeshTrace - DEBUG - this is demo Logger 3
+2014-04-26 15:18:45,807 - TestLogMukeshTrace - DEBUG - this is demo Logger 4
